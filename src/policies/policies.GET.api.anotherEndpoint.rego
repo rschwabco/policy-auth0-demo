@@ -1,4 +1,4 @@
-package policies.GET.api.profile
+package policies.GET.api.anotherEndpoint
 
 import input.user
 
